@@ -1,1 +1,7 @@
-{"versionCode":35,"versionName":"0.9.7.2 beta","size":24342928,"notes":"• В «Историю изменений» добавлена запись о версии 0.9.7.1","apk":"https://raw.githubusercontent.com/Draino1337/noir-updates/main/Noir.apk"}
+{
+    "versionCode":  36,
+    "versionName":  "0.9.8 beta",
+    "size":  24343068,
+    "notes":  "• Новая вкладка «YouTube» внизу: все скачанные видео списком — с превью, названием, датой скачивания и весом\n• Сортировка по дате, названию и весу\n• Кнопка «+» в этой вкладке открывает скачивание по ссылке\n• Вкладку «YouTube» можно выбрать стартовой в настройках",
+    "apk":  "https://raw.githubusercontent.com/Draino1337/noir-updates/main/Noir.apk"
+}
